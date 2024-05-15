@@ -1,0 +1,39 @@
+.P{
+    font-family:Arial;
+    font-size: 30px;
+
+}
+.VIDEO-TITLE{
+    font-family:Arial;
+    font-size: 30px;
+    width: 300px;
+    font-weight: bold;
+    line-height: 24px;
+    margin-bottom: 5px;
+    
+
+}
+.VIDEO-STATS{
+    font: size 14PX;
+    color: gray;
+    margin-top: 0px;
+}
+.VIDEO-AUTHOR{
+    font: size 25PX;
+    color: black;
+    margin-top: 10px;
+}
+.VIDEO-DESCRIPTION{
+    background-color: red;
+    color:white;
+    margin-top: 80px;
+    padding-left: 8px;
+    padding-top: 8px;
+    padding-right: 0px;
+    padding-bottom: 8px;
+    text-align: center;
+}
+.link{
+    cursor: pointer;
+}
+
